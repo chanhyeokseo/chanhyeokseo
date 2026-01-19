@@ -11,14 +11,20 @@ Come check out my <a href="https://popcorn-overflow.tistory.com/">Tistory Blog</
 <li><a href="https://aws-cloud-clubs.notion.site/AWS-Cloud-Clubs-South-Korea-2f84ef1eeabe4f2da78ebd04eeec4e07#433c4e471b9b495e96720931b1876d05">ACC</a> - AWS Cloud Club South Korea, Hongik University • 1st Captain <sub>(2024.09 ~ present)</sub></li>
 
 <h3>Projects</h3>
-<li>Second-hand Clothing Consignment Sales Platform <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> • Backend Developer <sub>(2023.07 ~ present)</sub></li>
-<li>Career Experience Management Service <a href="https://github.com/Central-MakeUs/DayCarat-Server">DayCarat</a> • Backend Developer <sub>(2024.01 ~ 2024.03)</sub></li>
+<li>Second-hand Clothing Consignment Sales Platform <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> <sub>(2023.07 ~ 2025.05)</sub></li>
+<li>Career Experience Management Service <a href="https://github.com/Central-MakeUs/DayCarat-Server">DayCarat</a> <sub>(2024.01 ~ 2024.03)</sub></li>
+<li>A Smart On-demand Instance Manager <a href="https://github.com/dumie-org/dumie-cli">Dumie</a> <sub>(2025.03 ~ 2025.06)</sub></li>
+<li>Datadog Sandbox with Terraform AWS Catalog <a href="https://github.com/chanhyeokseo/dogstac">DogSTAC</a> <sub>(2025.10 ~ present)</sub></li>
+<li>Datadog Metrics & Logs sender <a href="https://github.com/chanhyeokseo/forwardog">Forwardog</a> <sub>(2026.01 ~ present)</sub></li>
 
 <h3>Licenses & certifications</h3> 
 <li>AWS Solutions Architect - Associate</a> <sub>(2023.12.20)</sub></li>
-<li><a href="https://popcorn-overflow.tistory.com/34">AWS Advanced Networking - Specialty</a> <sub>(2024.05.31)</sub></li>
+<li>AWS Advanced Networking - Specialty</a> <sub>(2024.05.31)</sub></li>
 <li>AWS SysOps Administrator – Associate</a> <sub>(2024.06.18)</sub></li>
-<li><a href="https://popcorn-overflow.tistory.com/45">AWS Solutions Architect - Professional</a> <sub>(2024.08.05)</sub></li>
+<li>AWS Solutions Architect - Professional</a> <sub>(2024.08.05)</sub></li>
+<li>Datadog Certified: Datadog Fundamentals</a> <sub>(2025.03)</sub></li>
+<li>HashiCorp Certified: Terraform Associate</a> <sub>(2025.06)</sub></li>
+<li>AWS Developer - Associate</a> <sub>(2025.11.22)</sub></li>
 
 <li>Oral Proficiency Interview - Computer (OPIc) - English, AL <sub>(2024.03.24)</sub></li>
 
